@@ -1,3 +1,3 @@
-# A* maze solver
+# Dungeon
 
-![Alt text](/Dungeon.png "Optional title")
+![Alt text](/Dungeon.png)
